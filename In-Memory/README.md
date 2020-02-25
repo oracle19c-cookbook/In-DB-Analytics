@@ -9,3 +9,4 @@
 
 3. 참고 문서
 * [Oracle In-Memory Documentation](https://docs.oracle.com/en/database/oracle/oracle-database/19/inmem/index.html)
+* [Oracle In-Memory Demo Video](https://youtu.be/7ZbzIhuNweU)
