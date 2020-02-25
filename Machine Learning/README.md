@@ -13,7 +13,7 @@ Oracle Data Mining
 
 ***
 
-Oracle Machine Learning for R
+Oracle Machine Learning for R(OML4R)
 ---
 1. 소개 자료
 2. Hands-On
