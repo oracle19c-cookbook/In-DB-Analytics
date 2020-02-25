@@ -1,6 +1,5 @@
-ORACLE MACHINE LEARNING
-===
 ![title](https://github.com/oracle19c-cookbook/In-DB-Analytics/blob/master/Machine%20Learning/title.JPG)
+===
 
 
 * 소개 자료
