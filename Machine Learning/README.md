@@ -5,9 +5,8 @@ Oracle Data Mining
 1. 소개 자료
 2. Hands-On
 3. 참고 문서
-Oracle Database 19c Oracle Data Mining Manual
-Link : [ODM Manual][ODM Link]
-[ODM Link]:https://docs.oracle.com/en/database/oracle/oracle-database/19/dmcon/index.html
+* Oracle Database 19c Oracle Data Mining Manual
+[ODM Manual](https://docs.oracle.com/en/database/oracle/oracle-database/19/dmcon/index.html)
 
 
 
