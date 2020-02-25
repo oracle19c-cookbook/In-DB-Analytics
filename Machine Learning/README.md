@@ -18,3 +18,4 @@ Oracle Machine Learning for R
 1. 소개 자료
 2. Hands-On
 3. 참고 문서
+##### [Oracle R Enterprise 1.5.1](https://docs.oracle.com/en/database/oracle/r-enterprise/1.5.1/index.html)
