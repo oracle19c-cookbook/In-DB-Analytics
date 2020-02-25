@@ -6,6 +6,7 @@
 
 2. Hands-On
 * [Oracle Learning Library의 In-Memory 사용 예제](https://oracle.github.io/learning-library/data-management-library/database/options/in-memory.html#section-2-enabling-in-memory)
+* [Oracle Base의 In-Memory Basic 예제](https://oracle-base.com/articles/12c/in-memory-column-store-12cr1)
 
 3. 참고 문서
 * [Oracle In-Memory Documentation](https://docs.oracle.com/en/database/oracle/oracle-database/19/inmem/index.html)
