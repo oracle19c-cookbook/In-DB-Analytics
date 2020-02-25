@@ -23,4 +23,4 @@ Oracle Machine Learning for R(OML4R)
 ---
 1. Hands-On
 2. 참고 문서
-##### [Oracle R Enterprise 1.5.1 Manual](https://docs.oracle.com/en/database/oracle/r-enterprise/1.5.1/index.html)
+* [Oracle R Enterprise 1.5.1 Manual](https://docs.oracle.com/en/database/oracle/r-enterprise/1.5.1/index.html)
