@@ -6,14 +6,16 @@
 Row Format과 Column 포맷을 모두 지원함으로써 데이터를 최고의 속도로 처리할 수 있습니다. 
 
 ***
-
-1. 소개 자료
+소개 자료
+---
 * [Oracle In-Memory Homepage](https://www.oracle.com/database/technologies/in-memory.html)
 
-2. Hands-On
+Hands-On
+---
 * [Oracle Learning Library의 In-Memory 사용 예제](https://oracle.github.io/learning-library/data-management-library/database/options/in-memory.html#section-2-enabling-in-memory)
 * [Oracle Base의 In-Memory Basic 예제](https://oracle-base.com/articles/12c/in-memory-column-store-12cr1)
 
-3. 참고 문서
+참고 문서
+---
 * [Oracle In-Memory Documentation](https://docs.oracle.com/en/database/oracle/oracle-database/19/inmem/index.html)
 * [Oracle In-Memory Demo Video](https://youtu.be/7ZbzIhuNweU)
