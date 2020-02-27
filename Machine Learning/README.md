@@ -18,6 +18,10 @@ Hands-On
  * [Oracle Cloud의 Autonomous Database에서 SQL Notebooks(Zeppelin)으로 Machine Learning 사용 예제](https://github.com/oracle/oracle-db-examples/tree/master/machine-learning)
  * [PL/SQL을 활용한 Machine Learning 예제](https://github.com/oracle/oracle-db-examples/tree/master/plsql)
  * [SQL을 활용한 Machine Learning 예제](https://github.com/oracle/oracle-db-examples/tree/master/sql)
+ * [분석용 SQL 사용 예제](https://github.com/oracle/analytical-sql-examples/tree/master/analytical-sql)
+    - [예제 활용을 위한 설정](https://github.com/oracle/analytical-sql-examples/tree/master/analytical-sql/Setup)
+    - [분석용 함수 예제 스크립트](https://github.com/oracle/analytical-sql-examples/tree/master/analytical-sql/Scripts)
+    
  
 참고 문서
 ===
