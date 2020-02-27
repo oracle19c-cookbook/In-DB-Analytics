@@ -15,7 +15,7 @@
 Hands-On
 ---
 * [Oracle Learning Library의 In-Memory 사용 예제](https://oracle.github.io/learning-library/data-management-library/database/options/in-memory.html#section-2-enabling-in-memory)
-   - [In-Memory 설정 방법](https://oracle.github.io/learning-library/data-management-library/database/options/in-memory.html#section-1-logging-in-and-enabling-in-memory)
+  - [In-Memory 설정 방법](https://oracle.github.io/learning-library/data-management-library/database/options/in-memory.html#section-1-logging-in-and-enabling-in-memory)
    - [In-Memroy 활성화와 테이블 설정](https://oracle.github.io/learning-library/data-management-library/database/options/in-memory.html#section-2-enabling-in-memory)
    - [In-Memomry 데이터 조회](https://oracle.github.io/learning-library/data-management-library/database/options/in-memory.html#section-3-querying-the-in-memory-column-store)
    - [In-Memory를 사용한 Join과 집계 함수 사용](https://oracle.github.io/learning-library/data-management-library/database/options/in-memory.html#section-4-in-memory-joins-and-aggregation)
