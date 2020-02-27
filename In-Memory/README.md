@@ -21,11 +21,11 @@ Hands-On
    - [In-Memory를 사용한 Join과 집계 함수 사용](https://oracle.github.io/learning-library/data-management-library/database/options/in-memory.html#section-4-in-memory-joins-and-aggregation)
    
 * [Oracle Base의 In-Memory Basic 예제](https://oracle-base.com/articles/12c/in-memory-column-store-12cr1)
-- [Enable/Disable In-Memory](https://oracle-base.com/articles/12c/in-memory-column-store-12cr1#enable-in-memory-column-store)
-- [In-Memory 사용을 위한 Table 설정](https://oracle-base.com/articles/12c/in-memory-column-store-12cr1#managing-tables)
-- [In-Memory 사용을 위한 Column 설정](https://oracle-base.com/articles/12c/in-memory-column-store-12cr1#managing-columns)
-- [In-Memory 사용을 위한 Materialized View 설정](https://oracle-base.com/articles/12c/in-memory-column-store-12cr1#managing-mviews)
-- [In-Memory 사용을 위한 Tablespace 설정](https://oracle-base.com/articles/12c/in-memory-column-store-12cr1#managing-tablespaces)
+   - [Enable/Disable In-Memory](https://oracle-base.com/articles/12c/in-memory-column-store-12cr1#enable-in-memory-column-store)
+   - [In-Memory 사용을 위한 Table 설정](https://oracle-base.com/articles/12c/in-memory-column-store-12cr1#managing-tables)
+   - [In-Memory 사용을 위한 Column 설정](https://oracle-base.com/articles/12c/in-memory-column-store-12cr1#managing-columns)
+   - [In-Memory 사용을 위한 Materialized View 설정](https://oracle-base.com/articles/12c/in-memory-column-store-12cr1#managing-mviews)
+   - [In-Memory 사용을 위한 Tablespace 설정](https://oracle-base.com/articles/12c/in-memory-column-store-12cr1#managing-tablespaces)
 
 
 
